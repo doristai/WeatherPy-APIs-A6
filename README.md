@@ -34,15 +34,15 @@ Different catergorises offer different information for travellers to consider an
 
 Google map API is implemented to enable map function for traveller to visualise the nearest hotel in different cities around the world. Weather information is also provided in each destination. 
 
-Trip Route Planner![image](https://user-images.githubusercontent.com/70616488/115512236-9b28ad00-a236-11eb-9970-549ef7858233.png)
+**Figure 1. Trip Route Planner**![image](https://user-images.githubusercontent.com/70616488/115512236-9b28ad00-a236-11eb-9970-549ef7858233.png)
 
 ### Vacation Itinerary
 
 Google Map API is also implemented for visualisation of each destination. In this notebook, travellers are able to select cities and plan their routes for their trips. By applying different travel mode (WALKING, DRIVING, BICYCLING), different routes will be provided with the spots chosen. 
 
-WeatherPy Travel Map![image](https://user-images.githubusercontent.com/70616488/115512275-aaa7f600-a236-11eb-96d7-24a8abb469a3.png)
+**Figure 2. WeatherPy Travel Map**![image](https://user-images.githubusercontent.com/70616488/115512275-aaa7f600-a236-11eb-96d7-24a8abb469a3.png)
 
 Weather information and the nearest hotel in the cities of selection will also be provided. 
 
-Trip Route Planner with Markers ![image](https://user-images.githubusercontent.com/70616488/115512379-c9a68800-a236-11eb-81ac-303650bc0935.png)
+**Figure 3. Trip Route Planner with Markers** ![image](https://user-images.githubusercontent.com/70616488/115512379-c9a68800-a236-11eb-81ac-303650bc0935.png)
 
