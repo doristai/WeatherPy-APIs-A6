@@ -34,9 +34,14 @@ Different catergorises offer different information for travellers to consider an
 
 Google map API is implemented to enable map function for traveller to visualise the nearest hotel in different cities around the world. Weather information is also provided in each destination. 
 
+[image](https://user-images.githubusercontent.com/70616488/115511965-4dac4000-a236-11eb-8165-2bbef63350d8.png)
+
 ### Vacation Itinerary
 
 Google Map API is also implemented for visualisation of each destination. In this notebook, travellers are able to select cities and plan their routes for their trips. By applying different travel mode (WALKING, DRIVING, BICYCLING), different routes will be provided with the spots chosen. 
 
+[image](https://user-images.githubusercontent.com/70616488/115512028-5d2b8900-a236-11eb-9c85-637d3ae2c6cc.png)
 
 Weather information and the nearest hotel in the cities of selection will also be provided. 
+
+[image](https://user-images.githubusercontent.com/70616488/115512058-674d8780-a236-11eb-854f-7f46f2803aea.png)
